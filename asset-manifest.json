@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/headsUp/static/css/main.40f0e25f.chunk.css",
-    "main.js": "/headsUp/static/js/main.ee544835.chunk.js",
-    "main.js.map": "/headsUp/static/js/main.ee544835.chunk.js.map",
-    "runtime~main.js": "/headsUp/static/js/runtime~main.600ed30b.js",
-    "runtime~main.js.map": "/headsUp/static/js/runtime~main.600ed30b.js.map",
-    "static/css/2.266e55a5.chunk.css": "/headsUp/static/css/2.266e55a5.chunk.css",
-    "static/js/2.c1c88dd1.chunk.js": "/headsUp/static/js/2.c1c88dd1.chunk.js",
-    "static/js/2.c1c88dd1.chunk.js.map": "/headsUp/static/js/2.c1c88dd1.chunk.js.map",
-    "index.html": "/headsUp/index.html",
-    "precache-manifest.5252a8f7db19d35b2ca318bb96120dcb.js": "/headsUp/precache-manifest.5252a8f7db19d35b2ca318bb96120dcb.js",
-    "service-worker.js": "/headsUp/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/headsUp/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.40f0e25f.chunk.css.map": "/headsUp/static/css/main.40f0e25f.chunk.css.map"
+    "main.css": "/headsUp/home/static/css/main.40f0e25f.chunk.css",
+    "main.js": "/headsUp/home/static/js/main.75827341.chunk.js",
+    "main.js.map": "/headsUp/home/static/js/main.75827341.chunk.js.map",
+    "runtime~main.js": "/headsUp/home/static/js/runtime~main.c96e1340.js",
+    "runtime~main.js.map": "/headsUp/home/static/js/runtime~main.c96e1340.js.map",
+    "static/css/2.266e55a5.chunk.css": "/headsUp/home/static/css/2.266e55a5.chunk.css",
+    "static/js/2.c1c88dd1.chunk.js": "/headsUp/home/static/js/2.c1c88dd1.chunk.js",
+    "static/js/2.c1c88dd1.chunk.js.map": "/headsUp/home/static/js/2.c1c88dd1.chunk.js.map",
+    "index.html": "/headsUp/home/index.html",
+    "precache-manifest.dd1820339db35c5138d95b991ab9e236.js": "/headsUp/home/precache-manifest.dd1820339db35c5138d95b991ab9e236.js",
+    "service-worker.js": "/headsUp/home/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/headsUp/home/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.40f0e25f.chunk.css.map": "/headsUp/home/static/css/main.40f0e25f.chunk.css.map"
   }
 }
